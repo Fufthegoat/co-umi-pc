@@ -1,3 +1,3 @@
 # co-umi-pc
-Prezentace o možnostěch mobilů a aplikací
+Prezentace o možnostech mobilů a aplikací
 Školní projekt
